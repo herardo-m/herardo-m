@@ -12,8 +12,8 @@ Thank you for visiting my Github profile. Please take a look around 👀 and con
   <a href="https://github.com/herardo-m">
     <img src="/assets/images/Github.png" width="40" height="40">
   </a>
-  &nbsp;&nbsp;
-  <b href="https://linkedin.com/in/herardomartinez">
+  &nbsp;
+  <a href="https://linkedin.com/in/herardomartinez">
     <img src="/assets/images/LinkedIn.png" width="40" height="40">
-  </b>
+  </a>
 </p>
