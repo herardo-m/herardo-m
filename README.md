@@ -8,10 +8,11 @@ I am a Certified Information Security Manager (CISM) and a Certified Ethical Hac
 
 Thank you for visiting my Github profile. Please take a look around 👀 and consider following me here on Github or on LinkedIn.
 
-<p style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+<p
   <a href="https://github.com/herardo-m">
     <img src="/assets/images/Github.png" width="40" height="40">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/herardomartinez">
     <img src="/assets/images/LinkedIn.png" width="40" height="40">
   </a>
