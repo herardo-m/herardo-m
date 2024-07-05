@@ -13,8 +13,7 @@ Thank you for visiting my Github profile. Please take a look around 👀 and con
     <img src="/assets/images/Github.png" width="40" height="40">
   </a>
   
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <a href="https://linkedin.com/in/herardomartinez">
     <img src="/assets/images/LinkedIn.png" width="40" height="40">
   </a>
