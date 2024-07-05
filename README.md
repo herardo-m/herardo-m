@@ -6,5 +6,5 @@
 
 I am a Certified Information Security Manager (CISM) and a Certified Ethical Hacker (CEH) with over two decades of practical hands-on experience. I collaborates with executive leaders to translate cyber risk into business impacts and delivers tailor data-driven cybersecurity programs to mitigate risk to an acceptable level.
 
-Thank you for visiting my Github profile. Please take a look around 👀 and consider following me.
+Thank you for visiting my Github profile. Please take a look around 👀 and consider following me here on Github or on LinkedIn.
 
