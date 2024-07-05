@@ -8,4 +8,4 @@ I am a Certified Information Security Manager (CISM) and a Certified Ethical Hac
 
 Thank you for visiting my Github profile. Please take a look around 👀 and consider following me here on Github or on LinkedIn.
 
-[github]:(assets/images/github.png)
+![github]:(assets/images/github.png)
