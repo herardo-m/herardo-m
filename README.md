@@ -6,7 +6,7 @@
 
 I am a Certified Information Security Manager (CISM) and a Certified Ethical Hacker (CEH) with over two decades of practical hands-on experience. I collaborates with executive leaders to translate cyber risk into business impacts and delivers tailor data-driven cybersecurity programs to mitigate risk to an acceptable level.
 
-Thank you for visiting my Github profile and I wish you the 🍀 in your future ventures. Please take a look around 👀 and consider following me here on Github or on LinkedIn.
+Thank you for visiting my Github profile. Please take a look around 👀 and consider following me here on Github or on LinkedIn.
 
 <p>
   <a href="https://github.com/herardo-m">
@@ -17,3 +17,5 @@ Thank you for visiting my Github profile and I wish you the 🍀 in your future 
     <img src="/assets/images/LinkedIn.png" width="40" height="40">
   </a>
 </p>
+
+I wish you the best of 🍀 in your personal and professional ventures.
