@@ -17,5 +17,6 @@ Thank you for visiting my Github profile. Please take a look around 👀 and con
     <img src="/assets/images/LinkedIn.png" width="40" height="40">
   </a>
 </p>
-&nbsp;&nbsp;&nbsp;&nbsp;
+/n
+/n
 I wish you the best of 🍀 in your personal and professional ventures.
