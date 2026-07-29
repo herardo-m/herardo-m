@@ -2,7 +2,7 @@
   <img src="/assets/images/cysec banner.png">
 </p>
 
-## I am a cybersecurity practitioner and leader. 
+## A proven cybersecurity practitioner and leader. 
 
 As a Certified Information Security Manager (CISM) and a Certified Ethical Hacker (CEH) with over two decades of practical hands-on and leadership experience. I collaborates with boards and executive management to quantitatively measure cyber risks and translate them into business impacts (financial terms). When I am not managing risk through governance, I deliver tailor data-driven cybersecurity programs to apply the right controls and mitigate risk to an acceptable level.
 
