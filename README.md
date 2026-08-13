@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/assets/images/cysec banner.png">
+  <img src="/assets/images/security-banner.png">
 </p>
 
 ## Cybersecurity Executive and Practitioner
